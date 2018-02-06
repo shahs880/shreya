@@ -1,0 +1,50 @@
+body {
+	background: #2A766C;
+}
+
+h1 {
+	color: #fff;
+	opacity: 0.8;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-weight: lighter;
+	font-size: 20px;
+	position: relative;
+	top: 30px;
+}
+
+p {
+	color: #fff;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
+	position: fixed;
+	top: 108px;
+	left: 120px;
+}
+
+.rectangle1 {
+	background: #A3A3A3;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: 92px;
+	left: 350px;
+}
+
+.rectangle2 {
+	background: #A3A3A3;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: -308px;
+	left: 770px;
+}
+
+.rectangle3 {
+	background: #A3A3A3;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: -285px;
+	left: 350px;
+}
