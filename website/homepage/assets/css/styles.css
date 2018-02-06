@@ -1,0 +1,61 @@
+body {
+	background: #3259B0;
+}
+
+h1 {
+	color: #fff;
+	opacity: 0.8;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-weight: lighter;
+	font-size: 20px;
+	position: relative;
+	top: 30px;
+}
+
+p {
+	color: #fff;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
+	position: fixed;
+	top: 108px;
+	left: 120px;
+}
+
+.rectangle1 {
+	width: 581px;
+	height: 413px;
+	background: #A3A3A3;
+	position: relative;
+	top: 85px;
+	left: auto;
+}
+
+.project {
+	color: #fff;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
+	position: relative;
+	top: 100px;
+	left: auto;
+}
+
+.rectangle2{
+	width: 581px;
+	height: 413px;
+	background: #A3A3A3;
+	position: relative;
+	top: 125px;
+	left: auto;
+}
+
+.inspiration {
+	color: #fff;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
+	position: relative;
+	top: 140px;
+	left: auto;
+}
