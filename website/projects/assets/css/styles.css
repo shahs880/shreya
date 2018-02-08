@@ -1,4 +1,5 @@
 body {
+	/*background-image: url(projects/assets/img/nightwanderer.jpg);*/
 	background: #EDAA03;
 }
 
@@ -22,14 +23,25 @@ p {
 	left: 120px;
 }
 
-.rectangle1 {
-	background: #A3A3A3;
+img {
 	width: 400px;
 	height: 400px;
 	position: relative;
 	top: 92px;
 	left: 350px;
 }
+/*
+.rectangle1 {
+	background: url(assets/img/spider.png);
+	width: 400px;
+	height: 400px;
+	position: relative;
+	top: 92px;
+	left: 350px;
+	font-family: Futura, "Futura-light", sans-serif;
+	font-size: 24px; 
+}*/
+
 
 .rectangle2 {
 	background: #A3A3A3;
